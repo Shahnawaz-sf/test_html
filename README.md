@@ -4,5 +4,3 @@ I am new to gitHub, hence, created this repo to practice and enahnce my github k
 Adding ReadMe
 Author Shahnawaz-sf <br>
 I do not know the use of README file.
-<br>
-Author Shahnawaz-sf
