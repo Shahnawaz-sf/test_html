@@ -1,13 +1,29 @@
 
 body {
-    background-color: aqua;
+    font-family: sans-serif;
+    font-size: 1rem;
+    background-color: #fff;
 }
-
-h1 {
+header {
     text-align: center;
 }
+h1 {
+    text-align: center;
+    color:#0096C7;
+}
+
+h2 {
+    color: #F48C06;
+}
+
 p {
     font-family: sans-serif;
     font-size: 1rem;
     background-color:#fff ;
+}
+footer {
+    text-align: center;
+    padding-block: 10px;
+    background-color: #051888;
+    color: #fff;
 }
